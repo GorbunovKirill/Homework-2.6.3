@@ -1,6 +1,15 @@
-#include "Source.h"
+#include "figure.h"
 #include <iostream>
 #include <windows.h>
+#include"triangle.h"
+#include"quadrangle.h"
+#include"right_tri.h"
+#include"isos_tri.h"
+#include"equil_tri.h"
+#include"rectangle.h"
+#include"square.h"
+#include"parallelogram.h"'
+#include"rhomb.h"
 
 
 int main() {
